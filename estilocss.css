@@ -1,0 +1,17 @@
+*{margin: 5px; margin-top: 0px; margin-bottom: 0px;}
+ .entrada{ font-size: 30px; font-family:arial nova; font-weight:bold; }
+
+
+p.pregunta { color: orange ; font-size: 25px; text-align: center; text-decoration: underline; font-weight: bold; font-style: italic;}
+.titulo{ color: white ; font-size: 40px; text-align: center; text-decoration: underline; font-weight: bold; font-style: italic;}
+
+p.productos {font-size: 19px; font-family:arial nova;}
+p em {color:purple; font-weight:bold; font-style:italic;}
+
+p:first-letter {font-weight: bold; font-size:2em}
+body {font-family: Berlin Sans FB} 
+
+p:first-line{font-style: italic}
+
+
+ 
